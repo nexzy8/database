@@ -1,1 +1,5 @@
-7649249523:AAGc7OimnKWE4VPTdiJKQ9wFemk42Xd9ONs
+{
+  "tokens": [
+    "7649249523:AAGc7OimnKWE4VPTdiJKQ9wFemk42Xd9ONs"
+  ]
+}
